@@ -26,7 +26,7 @@ Para instalar o package do meu cartão pessoal, bastam executar o seguinte coman
     - **[standard](https://www.npmjs.com/package/standard)**
     - **[commander](https://www.npmjs.com/package/commander)**
 
-## Blz.. legal! Quero fazer o meu.. Como faço?! 🤔 :rocket:
+## Blz :ok_hand:.. legal! Quero fazer o meu.. Como faço?! 🤔 :rocket:
 
 Bastam seguir os passos abaixo:
 
@@ -139,4 +139,4 @@ console.log(chalk.green(boxen(output, options)))
 > npx gabrielstyce 
 ```
 
-E pronto! Aparecerá o seu Cartão Pessoal!! 🤗
+E pronto! Aparecerá o seu Cartão Pessoal!! :smiley::ok_hand:
