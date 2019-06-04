@@ -1,0 +1,53 @@
+{
+  "name": "gabrielstyce",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Cartão Pessoal em NPX",
+  "bin": {
+    "glaucia86": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js bin --fix"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "prettier": "^1.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.1",
+    "standard": "^12.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "npm run lint"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielstyce/gabrielstyce.git"
+  },
+  "keywords": [
+    "card",
+    "NPX"
+  ],
+  "author": "Gabriel Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielstyce/gabrielstyce/issues"
+  },
+  "homepage": "https://github.com/gabrielstyce/gabrielstyce#readme"
+}
