@@ -1,11 +1,11 @@
-# Cartão Pessoal em NPX - Glaucia Lemos :floppy_disk:
+# Cartão Pessoal em NPX - Gabriel Araujo :floppy_disk:
 
 Desenvolvimento de um package que simula um cartão pessoal. O exemplo desenvolvido aqui foi baseado 
 no repositório do **[Tierney Cyren](https://twitter.com/bitandbang)**
 
 No caso aqui, estou usando os meus dados para criar o meu Cartão Pessoal. O pacote, que nesse caso é o meu cartão pessoal, encontra-se disponível no site do **npmjs** pelo link: 
 
-- Cartão Pessoal Glaucia Lemos: **[gabrielstyce](https://www.npmjs.com/package/gabrielstyce)**
+- Cartão Pessoal Gabriel Araujo: **[gabrielstyce](https://www.npmjs.com/package/gabrielstyce)**
 
 Para instalar o package do meu cartão pessoal, bastam executar o seguinte comando abaixo:
 
