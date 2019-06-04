@@ -26,7 +26,7 @@ Para instalar o package do meu cartão pessoal, bastam executar o seguinte coman
     - **[standard](https://www.npmjs.com/package/standard)**
     - **[commander](https://www.npmjs.com/package/commander)**
 
-## Blz :ok_hand:.. legal! Quero fazer o meu.. Como faço?! 🤔 :rocket:
+## Blz :+1:.. legal! Quero fazer o meu.. Como faço?! 🤔 :rocket:
 
 Bastam seguir os passos abaixo:
 
