@@ -11,7 +11,6 @@ Para instalar o package do meu cartão pessoal, bastam executar o seguinte coman
 
 ```
 > npm i gabrielstyce
-
 ```
 
 ## Recursos Utilizados: :fire:
